@@ -28,7 +28,7 @@ This is a simple Java class that outputs a message to the console:
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins + Maven!");
+        System.out.println("Hello, Jenkins + Maven!-------Task 8");
     }
 }
 ```
@@ -115,7 +115,7 @@ Jenkins will start building your project using Maven. You can monitor the progre
 ![5](https://github.com/user-attachments/assets/ddc4e30c-4c85-4974-ae99-08cbe10c2bb0)
 
 --------------------------
-## 6.Build Complited in jenkins
+## 6.Build Completed in jenkins
 ![7](https://github.com/user-attachments/assets/7aaa7f9a-a5c5-4f68-af56-6ff46c95713a)
 
 --------------------------
